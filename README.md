@@ -4,7 +4,7 @@ This repo serves as a demo for churn prediction model and gender prediction mode
 
 
 ## Churn Prediction Model and Churn Cohort Analysis
-* See `demo-churn-prediction.ipynb`
+* See `demo-churn-prediction.ipynb` [Link](https://nbviewer.jupyter.org/github/sukilau/demo-userprofile-predictive-models/blob/master/demo-churn-prediction.ipynb)
 
 | 					              | Description                                          | 
 | ------------------------------ | :----------------------------------------------------|
@@ -20,7 +20,8 @@ This repo serves as a demo for churn prediction model and gender prediction mode
 
 ## Gender Prediction Model
 
-* See `demo-gender-prediction.ipynb`
+* See `demo-gender-prediction.ipynb` [Link](https://nbviewer.jupyter.org/github/sukilau/demo-userprofile-predictive-models/blob/master/demo-gender-prediction.ipynb)
+
 
 | 					              | Description                                          | 
 | ------------------------------ | :----------------------------------------------------|
